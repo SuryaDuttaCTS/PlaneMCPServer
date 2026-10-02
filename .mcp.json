@@ -1,0 +1,13 @@
+{
+	"mcpServers": {
+		"Plane Server Tool": {
+			"type": "stdio",
+			"command": "dotnet",
+			"args": [
+				"run",
+				"--project",
+				"E:\\Projects\\PlaneMCPServer\\PlaneMCPServer.csproj"
+			]
+		}
+	}
+}
